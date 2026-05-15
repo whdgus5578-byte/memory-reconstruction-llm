@@ -15,7 +15,7 @@ In the shared Gemini session, the model asked a clarification question instead o
 
 Demo link:
 
-[https://gemini.google.com/share/10b389f2ab58](https://gemini.google.com/share/ab46eb4e6590)
+https://gemini.google.com/share/2d15335e6d58
 
 ## Interpretation
 
